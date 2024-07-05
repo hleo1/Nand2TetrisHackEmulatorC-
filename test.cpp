@@ -17,7 +17,7 @@ void testKeyboard() {
 
 int SDL_main(int argc, char *argv[])
 {
-
+    // testKeyboard();
     
 
     return 0;
